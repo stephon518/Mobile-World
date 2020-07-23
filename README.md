@@ -6,7 +6,7 @@
  
  http://github.com[WIS]
  
- http://github.com[About us]
+ http://github.com[About]
  
  
  
