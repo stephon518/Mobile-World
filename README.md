@@ -3,8 +3,8 @@
 **Programming Your Own Wireless Service(WIS)**
  
  http://github.com[Home]
- <h2>WIS>
-  <About us>
+ http://github.com[WIS]
+ http://github.com[About us]
  
  
  
